@@ -1,5 +1,4 @@
-# ARGB strip control from the remote control
-Управление ARGB лентой с пульта ДУ
+# ARGB strip control from the remote control/Управление ARGB лентой с пульта ДУ
 ## Scheme/Схема
 ![SC](https://github.com/Iv2005an/remote-control-argb-strip/blob/main/scheme.png)
 ## Settings/Настройки
