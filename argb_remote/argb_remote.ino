@@ -1,10 +1,10 @@
 #include <IRremote.hpp>
 #include <microLED.h>
 
-#define LED_PIN 2
-#define NUMLEDS 102
-#define IR_PIN 3
-bool debug = false;
+#define LED_PIN 2   // пин ленты
+#define NUMLEDS 102 // количество светодиодов
+#define IR_PIN 3    // пин ИК-приёмника
+#define debug false // включение отладки
 
 microLED<NUMLEDS, LED_PIN, MLED_NO_CLOCK, LED_WS2812, ORDER_GRB, CLI_AVER, SAVE_MILLIS> led;
 
